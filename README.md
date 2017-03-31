@@ -11,8 +11,10 @@ _Próximamente anunciaremos nuestro próximo meetup_
 
 ##### Kotlin Meetup #01 - Marzo 25, 2017
 
-* **Introducción a Kotlin** por [Armando Picón](http://twitter.com/devpicon) <br/>
-  [Slides](https://speakerdeck.com/devpicon/introduccion-a-kotlin-para-android-developers)
+* **Introducción a Kotlin para Desarrolladores Android** por [Armando Picón](http://twitter.com/devpicon) <br/>
+   [Slides](https://speakerdeck.com/devpicon/introduccion-a-kotlin-para-android-developers) |
+  [Demo 1 - Test Android Marvel Comic App](https://github.com/DevPicon/test-android-marvel-comic)
+  | [Demo 2 - Eventech](https://github.com/DevPicon/kotlin-agenda-tech-latam)
 
 
 ### Nuestras redes sociales:
