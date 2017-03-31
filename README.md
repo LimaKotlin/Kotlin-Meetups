@@ -13,3 +13,9 @@ _Próximamente anunciaremos nuestro próximo meetup_
 
 * **Introducción a Kotlin** por [Armando Picón](http://twitter.com/devpicon) <br/>
   [Slides](https://speakerdeck.com/devpicon/introduccion-a-kotlin-para-android-developers)
+
+
+### Nuestras redes sociales:
+
+* Facebook [https://www.facebook.com/groups/limakotlin](https://www.facebook.com/groups/limakotlin)
+* Twitter [https://twitter.com/limakotlin](https://twitter.com/limakotlin)
