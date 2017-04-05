@@ -26,5 +26,7 @@ _Nos unimos a los [eventos oficiales](https://kotlinlang.org/community/talks.htm
 
 ### Nuestras redes sociales:
 
-* Facebook [https://www.facebook.com/groups/limakotlin](https://www.facebook.com/groups/limakotlin)
+* Facebook Page [https://www.facebook.com/limakotlin](https://www.facebook.com/limakotlin)
+* Facebook Groups [https://www.facebook.com/groups/limakotlin](https://www.facebook.com/groups/limakotlin)
 * Twitter [https://twitter.com/limakotlin](https://twitter.com/limakotlin)
+* Github [https://github.com/limakotlin](https://github.com/limakotlin)
