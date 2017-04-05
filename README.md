@@ -5,7 +5,9 @@ Sesiones de las Kotlin Meetups de [Lima Kotlin](https://www.facebook.com/groups/
 
 ## Próximos Meetups
 
-_Próximamente anunciaremos nuestro próximo meetup_
+### Kotlin Meetup #02 - Abril 18, 2017
+
+_Nuestro segundo meetup. Este evento es co-organizado con los chicos del [GDG Open](https://www.facebook.com/gdgopen) y con el apoyo de [Innova Zone Coworking](https://www.facebook.com/InnovazoneCoWorking/) y [Silabuz.com](http://www.silabuz.com)_
 
 ### Meetups Pasados
 
